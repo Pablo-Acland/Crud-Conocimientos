@@ -24,6 +24,11 @@
       "nombre": "Aldebaran",
       "constelacion": "Tauro",
       "id": 13
+    },
+    {
+      "nombre": "Shaka",
+      "constelacion": "Virgo",
+      "id": 15
     }
   ],
   "dioses": [
