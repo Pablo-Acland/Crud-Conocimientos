@@ -1,0 +1,29 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(51, 53, 53);
+  }
+.santos {
+    background-color: rgb(146, 241, 241);
+}
+.title-tabla{
+    background-color: rgb(245, 250, 250);
+}
+.inputText{
+    background-color: rgb(255, 255, 255);
+}
+.crud-title {
+    color: rgb(146, 241, 241);
+}
+.tecnica-title{
+    color: gold;
+}
+.delete{
+    background-color: rgb(248, 10, 10); 
+}
+.edit{
+    background-color: rgb(91, 105, 197);
+}
+.enviar{
+    background-color: rgb(57, 149, 98);
+}
